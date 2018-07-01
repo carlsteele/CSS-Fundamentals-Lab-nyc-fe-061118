@@ -33,6 +33,8 @@ margin: auto;
 
 #details
 { display: block;
+float: left;
+}
 
 
 
