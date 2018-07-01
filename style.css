@@ -33,7 +33,7 @@ margin: auto;
 
 #details div
 { display: block;
-float: none;
+float: inherit;
 margin: auto;
 }
 
